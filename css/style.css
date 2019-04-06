@@ -1,0 +1,43 @@
+html, body{
+    overflow-x: hidden;
+}
+
+html,body{
+    height: 100%;
+}
+
+.wrapper{
+    min-height: 100%;
+}
+
+.footer-wrapper{
+    color: #FFFFFF;
+    padding: 0.5rem 0;
+}
+
+.icon-dashboard{
+    font-size: 6rem;
+}
+
+.book{
+    color: rgb(84, 135, 245);
+}
+
+.card-dashboard h5{
+    font-size: 2rem;
+}
+
+/* media query */
+@media (max-width:575.98px){
+    .card-dashboard h5{
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 767.98px){
+
+}
+
+@media (max-width: 991.98px){
+
+}
