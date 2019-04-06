@@ -6,6 +6,8 @@ Version: PHP7<br>
 Database Mysqli<br>
 Framework: Codeigniter 3 & Bootstrap 4
 <br><br>
+pada folder config cari database.php lalu ubah setting nama db,username dan password databasenya
+<br><br>
 Install Database<br>
 CREATE TABLE `buku` (
  `id` int(8) NOT NULL AUTO_INCREMENT,
